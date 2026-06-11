@@ -15,7 +15,7 @@ Official project: https://forgejo.org/
 
 ## Requirements
 
-* Debian 13 (Trixie)
+* Debian 11/12/13
 * Root access
 * Internet connection
 
@@ -101,6 +101,7 @@ Forgejo updates should be performed manually.
 ## Tested On
 
 * Debian 13 (Trixie)
+* Debian 12 (Bookworm)
 
 ## Disclaimer
 
