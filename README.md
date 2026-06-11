@@ -1,6 +1,8 @@
 # Forgejo Deploy
 
-Automated Forgejo and MySQL deployment script for Debian.
+Automated Forgejo and MySQL/MariaDB deployment script for Debian.
+
+Official project: https://forgejo.org/
 
 ## Features
 
